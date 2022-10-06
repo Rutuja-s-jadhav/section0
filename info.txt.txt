@@ -1,0 +1,4 @@
+i transform: git & github
+git --version
+git help config
+git config --help
