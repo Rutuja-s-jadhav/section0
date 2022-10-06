@@ -1,12 +1,13 @@
-HELLO ,
-i'm learning github!!
-it makes collaboration very easily!!
-git saves the day!!
-have a great day...!!
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-software engineer...!!
-be a developer>>11
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
 
-ui designer
-coder
-software associate
+</body>
+</html>
+
